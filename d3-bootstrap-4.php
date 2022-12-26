@@ -2,7 +2,7 @@
 
 /**
 * Plugin Name: D3 Bootstrap 4
-* Plugin URI: https://www.derved.com/
+* Plugin URI: https://www.derved.com/wp-plugins/d3-bootstrap-4
 * Description: Init Bootstrap 4 to Wordpress.
 * Version: 0.1
 * Author: DERVED®
