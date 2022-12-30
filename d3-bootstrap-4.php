@@ -75,7 +75,8 @@ function d3_bootstrap_4_admin_menu()
             'D3 Suite', // menu title
             'manage_options', // capability
             'd3-suite', // menu slug
-            'd3_bootstrap_4_print_d3_suite'  // callback function
+            'd3_bootstrap_4_print_d3_suite',  // callback function
+            'dashicons-admin-customizer'
         );
     }
     d3_bootstrap_4_admin_submenu();
